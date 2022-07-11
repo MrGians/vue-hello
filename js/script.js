@@ -1,4 +1,3 @@
-console.log("Vue OK", Vue);
 
 const root = new Vue (
   {
@@ -7,6 +6,7 @@ const root = new Vue (
     data: {
       firstName: "Gianluca",
       lastName: "Mura",
+      avatar: "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png"
     }
   }
 );
